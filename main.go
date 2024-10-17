@@ -26,9 +26,9 @@ var sendCmd = &cobra.Command{
 	Run: func(cmd *cobra.Command, args []string) {
 
 		// Load sender's private key from environment variable
-		sk := viper.GetString("NOSTR_PRIVATE_KEY")
+		sk := viper.GetString("NOSTR_SECRET_KEY")
 		if sk == "" {
-			fmt.Println("NOSTR_PRIVATE_KEY not set in the environment")
+			fmt.Println("NOSTR_SECRET_KEY not set in the environment")
 			os.Exit(1)
 		}
 
@@ -71,9 +71,9 @@ var receiveCmd = &cobra.Command{
 	Long:  `Receive a message using the provided private key and the gift.`,
 	Run: func(cmd *cobra.Command, args []string) {
 
-		sk := viper.GetString("NOSTR_PRIVATE_KEY")
+		sk := viper.GetString("NOSTR_SECRET_KEY")
 		if sk == "" {
-			fmt.Println("NOSTR_PRIVATE_KEY not set in the environment")
+			fmt.Println("NOSTR_SECRET_KEY not set in the environment")
 			os.Exit(1)
 		}
 
