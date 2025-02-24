@@ -38,6 +38,8 @@ github.com/jeremyd/crusher17 v0.0.0-20240729011027-d82e4375428a h1:q8mIJ64JW742J
 github.com/jeremyd/crusher17 v0.0.0-20240729011027-d82e4375428a/go.mod h1:WEp6SGwIwaLtRBncLCe1G1MtCb4NqL8ksYLdaIpFVRc=
 github.com/jeremyd/crusher17 v0.0.0-20250224080304-0e966100bd0a h1:xbj9jv4gZGsRJ/tQ3M1ipfbMCon24ClsVS33QMYfuKU=
 github.com/jeremyd/crusher17 v0.0.0-20250224080304-0e966100bd0a/go.mod h1:06FZe4I4GO1fjB8O6quI2PwrYeolyT/l4K/fciiDAVU=
+github.com/jeremyd/crusher17 v0.0.0-20250224083350-e9a5ffbbb951 h1:fE7ynhZIbxsoNLVMGr0VFxOphV3p/8eAHBZvqEMZcTI=
+github.com/jeremyd/crusher17 v0.0.0-20250224083350-e9a5ffbbb951/go.mod h1:06FZe4I4GO1fjB8O6quI2PwrYeolyT/l4K/fciiDAVU=
 github.com/josharian/intern v1.0.0 h1:vlS4z54oSdjm0bgjRigI+G1HpF+tI+9rE5LLzOg8HmY=
 github.com/josharian/intern v1.0.0/go.mod h1:5DoeVV0s6jJacbCEi61lwdGj/aVlrQvzHFFd8Hwg//Y=
 github.com/json-iterator/go v1.1.12 h1:PV8peI4a0ysnczrg+LtxykD8LfKY9ML6u2jnxaEnrnM=
