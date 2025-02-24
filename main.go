@@ -35,7 +35,6 @@ var sendCmd = &cobra.Command{
 		message, _ := cmd.Flags().GetString("message")
 		relay, _ := cmd.Flags().GetString("relay")
 		receivers, _ := cmd.Flags().GetStringArray("receiver")
-		fmt.Println("Sending message to", receivers)
 
 		receiverMap := make(map[string]string)
 		for _, pk := range receivers {
