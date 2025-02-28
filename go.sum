@@ -1,3 +1,4 @@
+github.com/btcsuite/btcd v0.24.2 h1:aLmxPguqxza+4ag8R1I2nnJjSu2iFn/kqtHTIImswcY=
 github.com/btcsuite/btcd/btcec/v2 v2.3.4 h1:3EJjcN70HCu/mwqlUsGK8GcNVyLVxFDlWurTXGPFfiQ=
 github.com/btcsuite/btcd/btcec/v2 v2.3.4/go.mod h1:zYzJ8etWJQIv1Ogk7OzpWjowwOdXY1W/17j2MW85J04=
 github.com/btcsuite/btcd/chaincfg/chainhash v1.1.0 h1:59Kx4K6lzOW5w6nFlA0v5+lk/6sjybR934QNHSJZPTQ=
@@ -26,6 +27,8 @@ github.com/inconshreveable/mousetrap v1.1.0 h1:wN+x4NVGpMsO7ErUn/mUI3vEoE6Jt13X2
 github.com/inconshreveable/mousetrap v1.1.0/go.mod h1:vpF70FUmC8bwa3OWnCshd2FqLfsEA9PFc4w1p2J65bw=
 github.com/jeremyd/crusher17 v0.0.1 h1:XOz/BNUapBpPPBhHyEgg/ioBTif8IbhdLyBFWQ9O80k=
 github.com/jeremyd/crusher17 v0.0.1/go.mod h1:06FZe4I4GO1fjB8O6quI2PwrYeolyT/l4K/fciiDAVU=
+github.com/jeremyd/crusher17 v0.0.2 h1:lJt4NiodetdpqJMsXf6jz8BdA5Y/R5Fhs7Fnw9Zeufo=
+github.com/jeremyd/crusher17 v0.0.2/go.mod h1:06FZe4I4GO1fjB8O6quI2PwrYeolyT/l4K/fciiDAVU=
 github.com/josharian/intern v1.0.0 h1:vlS4z54oSdjm0bgjRigI+G1HpF+tI+9rE5LLzOg8HmY=
 github.com/josharian/intern v1.0.0/go.mod h1:5DoeVV0s6jJacbCEi61lwdGj/aVlrQvzHFFd8Hwg//Y=
 github.com/json-iterator/go v1.1.12 h1:PV8peI4a0ysnczrg+LtxykD8LfKY9ML6u2jnxaEnrnM=

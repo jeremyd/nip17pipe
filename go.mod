@@ -5,7 +5,7 @@ go 1.23.1
 toolchain go1.24.0
 
 require (
-	github.com/jeremyd/crusher17 v0.0.1
+	github.com/jeremyd/crusher17 v0.0.2
 	github.com/nbd-wtf/go-nostr v0.50.0
 	github.com/spf13/cobra v1.9.1
 	github.com/spf13/viper v1.19.0
